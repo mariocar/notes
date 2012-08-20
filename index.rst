@@ -11,9 +11,9 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-# item
-## item2
-### item 3
+* item
+**  item2
+*** item 3
 
 1. one
 2. two
